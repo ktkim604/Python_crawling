@@ -30,3 +30,4 @@ for index, row in enumerate(data_rows):
     print("동 :", columns[3].get_text().strip())
     print("층 :", columns[4].get_text().strip())
     print("층 :", columns[4].get_text().strip())
+    
