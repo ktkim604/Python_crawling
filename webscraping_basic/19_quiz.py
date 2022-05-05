@@ -29,3 +29,4 @@ for index, row in enumerate(data_rows):
     print("가격 :", columns[2].get_text().strip(), "(만원)")
     print("동 :", columns[3].get_text().strip())
     print("층 :", columns[4].get_text().strip())
+    print("층 :", columns[4].get_text().strip())
