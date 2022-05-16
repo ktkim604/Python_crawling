@@ -42,7 +42,7 @@ while(True):
     break
   else:
     for i in range(0,len(lst)-k+1):
-      sum=0
+      sum = 0 
       for j in range(0,k):
         sum = sum+lst[i+j]
       result.append(sum)
